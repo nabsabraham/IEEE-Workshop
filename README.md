@@ -3,9 +3,9 @@
 ### This repo contains a Neural Network solution to the Boston Housing Dataset Prices problem. 
 
 Dependencies: 
-    <br>Keras 
-    <br>Tensorflow 
-    <br>Numpy
+        <br>Keras 
+        <br>Tensorflow 
+        <br>Numpy
 
 For Windows install of Keras and Tensorflow with GPU, I'd recommend any of the following: 
 https://github.com/antoniosehk/keras-tensorflow-windows-installation 
